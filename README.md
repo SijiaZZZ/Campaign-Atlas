@@ -9,7 +9,7 @@ Built for growth teams and engineers, it intelligently generates, routes, and ob
 ## ✨ Key Features
 
 - 🤖 **LLM-Generated Messaging**  
-  Generate personalized campaign content using GPT-4 based on user history, tone, and intent.
+  Generate personalized campaign content using GPT-4 based on user's profile, history, tone, and intent.
 
 - 🧭 **Cross-Channel Routing**  
   Dynamically select the best communication channel (email, push, SMS, etc.) based on user behavior and engagement context.
@@ -27,7 +27,7 @@ Built for growth teams and engineers, it intelligently generates, routes, and ob
 
 ## 🧱 Tech Stack
 
-- **Backend**: Java (Spring Boot) or Python (FastAPI)
+- **Backend**: Python (FastAPI)
 - **LLM**: OpenAI GPT-4 API (pluggable with Claude, Gemini, etc.)
 - **Routing & Caching**: Custom rules engine + Redis
 - **Deployment**: Docker, AWS (EC2 or ECS), optional CI/CD
