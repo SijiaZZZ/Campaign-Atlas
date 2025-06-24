@@ -39,8 +39,9 @@ Built for growth teams and engineers, it intelligently generates, routes, and ob
 
 
 ## 🙇‍♀️ Project Structure
+<img width="1066" alt="Screenshot 2025-06-23 at 22 25 27" src="https://github.com/user-attachments/assets/059e4521-d508-4dca-9419-0052e43f07df" />
 
-![ChatGPT Image Jun 23, 2025 at 09_44_18 PM](https://github.com/user-attachments/assets/74d23439-9910-4a53-990b-9ee6fe2df92d)
+
 
 
 
