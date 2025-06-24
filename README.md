@@ -37,3 +37,10 @@ Built for growth teams and engineers, it intelligently generates, routes, and ob
 
 > _“Navigating user journeys with AI precision.”_
 
+
+Project structure 
+![campaign_atlas_architecture](https://github.com/user-attachments/assets/1c0b4242-be5b-4bd9-8c42-4a30a6dcc5bb)
+
+
+
+
